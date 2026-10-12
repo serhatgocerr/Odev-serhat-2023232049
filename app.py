@@ -73,7 +73,7 @@ st.markdown(f"""
 st.markdown("""
 <div class="app-header">
     <h1>🏗️ İnşaat Proje Süresi Tahmin Aracı</h1>
-    <p>İnşaat Mühendisliğinde Yapay Zekâ Uygulamaları — Hafta 2 Lab Projesi</p>
+    <p>serhat göçer 2023232049</p>
 </div>
 """, unsafe_allow_html=True)
 
